@@ -1,0 +1,204 @@
+.hero__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 2.16px;
+  font-family: 'Plus Jakarta Sans';
+
+  color: #080829;
+
+}
+
+.fetures_head {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 56px;
+  /* identical to box height, or 129% */
+
+  text-align: center;
+  letter-spacing: 1.44px;
+
+  color: #080829;
+
+}
+
+.fetures_text {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: 0.36px;
+  color: #545479;
+
+}
+
+.heros_head {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 56px;
+  letter-spacing: 1.44px;
+  color: #080829;
+}
+
+.heros_texting {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  /* or 160% */
+
+  letter-spacing: 0.36px;
+
+  color: #545479;
+
+}
+
+.heros_texting2 {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+  /* or 160% */
+
+  letter-spacing: 0.36px;
+
+  color: #080829;
+
+}
+
+.quota__text {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.36px;
+  color: #080829;
+
+}
+
+.heros_head2 {
+
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+  /* or 116% */
+
+  letter-spacing: 1.44px;
+
+  color: #080829;
+
+}
+
+.article__head {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 56px;
+  /* identical to box height, or 129% */
+
+  letter-spacing: 1.44px;
+
+  color: #080829;
+
+}
+
+.article__title {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 34px;
+  /* identical to box height, or 124% */
+
+  letter-spacing: 0.56px;
+
+  color: #080829;
+}
+
+.article__text {
+  margin-top: 20px;
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 29px;
+  /* or 169% */
+
+  letter-spacing: 0.36px;
+
+  color: #545479;
+
+}
+
+.quote__text {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  /* or 149% */
+
+  letter-spacing: 0.64px;
+
+  color: #080829;
+  display: block;
+  max-width: 718px;
+}
+
+  
+  .height-100{
+      height:100vh;
+  }
+  
+ 
+  
+  .ratings{
+      margin-right:10px;
+  }
+  
+  .ratings i{
+      
+      color:#cecece;
+      font-size:32px;
+  }
+  
+  .rating-color{
+      color:#fbc634 !important;
+  }
+  
+  .review-count{
+      font-weight:400;
+      margin-bottom:2px;
+      font-size:24px !important;
+  }
+  
+  .small-ratings i{
+    color:#cecece;   
+  }
+  
+  .review-stat{
+      font-weight:300;
+      font-size:18px;
+      margin-bottom:2px;
+  }
+
+  .article-circle{
+    background: rgba(162, 89, 255, 0.3);
+  }
+  .article-circle3{
+    background: rgba(250, 91, 104, 0.3);
+  }
+
+  
